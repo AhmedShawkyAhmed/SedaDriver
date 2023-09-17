@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "839633667069",
+    "project_id": "seda-82bc0",
+    "storage_bucket": "seda-82bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839633667069:android:ea7cf80b1de7ebeaf4cf94",
+        "android_client_info": {
+          "package_name": "com.magdsoft.seda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839633667069-8g71hk14d95g8ikr2b0iq2kikupenr61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magdsoft.seda",
+            "certificate_hash": "f6c8fdcf546fa00038486b79f228f5a9e3df1881"
+          }
+        },
+        {
+          "client_id": "839633667069-96j60k2aa4rpdnmbrvk9hk9t7fp3m27t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magdsoft.seda",
+            "certificate_hash": "18bc843fdbe475503a482f3c620a7654806af6a2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBqsqlWPY4-JgURk0E0BViD-l5x0uBSxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839633667069-cl6kf51tj7rh2pgn53kmkkujst2o3jas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magdsoft.seda",
+                "app_store_id": "1644680193"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839633667069:android:36b6f09d8801040df4cf94",
+        "android_client_info": {
+          "package_name": "com.magdsoft.seda_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBqsqlWPY4-JgURk0E0BViD-l5x0uBSxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839633667069-cl6kf51tj7rh2pgn53kmkkujst2o3jas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magdsoft.seda",
+                "app_store_id": "1644680193"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
